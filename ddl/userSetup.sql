@@ -1,0 +1,1 @@
+#Change the password values below. Set the permissions on this file to be readable by root or someone you trustSET PASSWORD FOR chester_web_user@localhost = PASSWORD('pw1');SET PASSWORD FOR chester_upload_user@localhost = PASSWORD('pw1')
